@@ -1,2 +1,2 @@
 # Higher-Lower
-This is part of the 100 Days of Code Python Programming course by Dr. Angela Yu on Udemy.
+Section 14: Day 14 - Beginner - Higher Lower Game Project
